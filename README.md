@@ -11,11 +11,11 @@ clone and run:
 to see how it works with curl and postman
 
 
-GET /api/books
-GET /api/books/{id}
-POST /api/books
-PUT /api/books/{id}
-DELETE /api/books/{id}
+- GET /api/books
+- GET /api/books/{id}
+- POST /api/books
+- PUT /api/books/{id}
+- DELETE /api/books/{id}
 
 
 POST body:
